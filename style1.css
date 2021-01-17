@@ -26,3 +26,10 @@ body {
     object-fit: cover;
 }
 
+
+body.login-form {
+    background-image: url("img/background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
